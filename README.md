@@ -25,16 +25,16 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center" valign="top">
-      <img height="195" src="https://github-stats-extended.vercel.app/api?username=SocketSnake&show_icons=true&theme=tokyonight&hide_border=true&locale=ru" alt="GitHub Stats" />
+      <img height="195" src="https://github-stats-extended.vercel.app/api?username=0xKveltr&show_icons=true&theme=tokyonight&hide_border=true&locale=ru" alt="GitHub Stats" />
     </td>
     <td align="center" valign="top">
-      <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SocketSnake&layout=compact&theme=tokyonight&hide_border=true&locale=ru" alt="Top Languages" />
+      <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=0xKveltr&layout=compact&theme=tokyonight&hide_border=true&locale=ru" alt="Top Languages" />
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2" valign="top">
       <br />
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SocketSnake&theme=tokyonight&hide_border=true&locale=ru" alt="GitHub Streak" />
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xKveltr&theme=tokyonight&hide_border=true&locale=ru" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
@@ -44,8 +44,8 @@
 ### 📫 Связаться со мной
 
 <p align="center">
-  <a href="https://github.com/SocketSnake">
-    <img src="https://img.shields.io/badge/GitHub-SocketSnake-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/0xKveltr">
+    <img src="https://img.shields.io/badge/GitHub-0xKveltr-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
